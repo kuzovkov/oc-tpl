@@ -14,6 +14,6 @@ mv opencart/config-dist.php opencart/config.php
 mv opencart/admin/config-dist.php opencart/admin/config.php
 rm -rf tmp
 chmod -R 777 opencart
-
+chmod -R 777 storage
 
 
